@@ -1,9 +1,11 @@
-Name: YOUR NAME HERE
+Name: William Beesley
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date       |          Time           |                                                                                                                                                                                                                                                                                                                                                                                                                                                     Update |
+|:-----------|:-----------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| January 13 |    11:25 - 11:55 am     |                                                                                                                                                                                 We were thinking about the problem in class. MR. Blick gave us a hint about looking at the problem throught the lens of a graph, and lucas was talking about dynamic programming. We also made a table to look at the "from" and "to" and understand the sequences better. |
+| January 13 |       8:30-9:20pm       |                                                                                                                                      I started brainstorming more solutions to the problem. I wrote out the table solution again on my white board to understand it more. I realized thatwhat their algorithm did well was tracking previous routes. However, their algorithm still felt a little slower than it needed to be with such a large data size. |
+| January 14 |         9-10pm          |                                                                                                                                                                                I began to think about the problem with more of a graph theory approach, since that was the hint that Mr. Blick gave us. I coded up a slow solution to the problem ( O(2^V) ), but obviously it was too slow and I couldn't test anywyas because I didn't have my computer. |
+| January 15 | 10-10:40 and 12:45-1:40 | I began to implement the theory that Mr. Blick taught us in class. Some of the thinking was a little bit tricky, mainly remembering whether my data structures stored/used the indexes of the numbers or the actual numbers. I also had to make a bunch of global variables so it was easy to access everything throughout the recursive funcions. I finished implementing these ideas, but right now I have a lot of errors that I need to troubleshoot.  |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.
