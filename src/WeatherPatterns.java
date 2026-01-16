@@ -12,7 +12,6 @@ public class WeatherPatterns {
     private static int PATHFINDER[];
     private static int NUM;
     private static ArrayList<Integer> GRAPH[];
-    private static int MAP[];
     // Recursive memoization function
     public static int longestPath(int vertex) {
         int length = 1;
